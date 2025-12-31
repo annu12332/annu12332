@@ -2,7 +2,7 @@
 ### 🚀 Professional MERN Stack Developer | Full Stack Enthusiast
 
 <p align="center">
-  <img src="https://ibb.co.com/1JrBRQ1L" alt="Banner Image" width="100%" />
+  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/d5674393-cfe9-4379-8b1e-57ef7a56bfb0" />
 </p>
 
 ## 🚀 About Me
